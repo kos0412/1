@@ -2102,9 +2102,6 @@ http://lbay30jp.socminlt.com/iptv/CBEVE5RT78FG499NBTGA5CMY/16073/index.m3u8
 #EXTINF:0 tvg-rec="0",Zerouno TV HD IT
 #EXTGRP:музыка
 http://lbay30jp.socminlt.com/iptv/CBEVE5RT78FG499NBTGA5CMY/16076/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Hit 90 HD
-#EXTGRP:музыка
-http://lbay30jp.socminlt.com/iptv/CBEVE5RT78FG499NBTGA5CMY/16081/index.m3u8
 #EXTINF:0 tvg-rec="0",Bridge Фрэш
 #EXTGRP:музыка
 http://lbay30jp.socminlt.com/iptv/CBEVE5RT78FG499NBTGA5CMY/17045/index.m3u8
@@ -4355,6 +4352,9 @@ http://lbay30jp.socminlt.com/iptv/CBEVE5RT78FG499NBTGA5CMY/31961/index.m3u8
 #EXTINF:0 tvg-rec="3",РЖД ТВ
 #EXTGRP:другие
 http://lbay30jp.socminlt.com/iptv/CBEVE5RT78FG499NBTGA5CMY/9118/index.m3u8
+#EXTINF:0 tvg-rec="0",KidZone Mini HD LV
+#EXTGRP:другие
+http://lbay30jp.socminlt.com/iptv/CBEVE5RT78FG499NBTGA5CMY/18005/index.m3u8
 #EXTINF:0 tvg-rec="0",Среда HD (Каспийск)
 #EXTGRP:другие
 http://lbay30jp.socminlt.com/iptv/CBEVE5RT78FG499NBTGA5CMY/16002/index.m3u8
@@ -4574,9 +4574,6 @@ http://lbay30jp.socminlt.com/iptv/CBEVE5RT78FG499NBTGA5CMY/960/index.m3u8
 #EXTINF:0 tvg-rec="3",TVP Info HD PL
 #EXTGRP:другие
 http://lbay30jp.socminlt.com/iptv/CBEVE5RT78FG499NBTGA5CMY/961/index.m3u8
-#EXTINF:0 tvg-rec="3",AzTV AZ
-#EXTGRP:другие
-http://lbay30jp.socminlt.com/iptv/CBEVE5RT78FG499NBTGA5CMY/966/index.m3u8
 #EXTINF:0 tvg-rec="3",СПАС
 #EXTGRP:другие
 http://lbay30jp.socminlt.com/iptv/CBEVE5RT78FG499NBTGA5CMY/983/index.m3u8
@@ -6632,7 +6629,7 @@ http://lbay30jp.socminlt.com/iptv/CBEVE5RT78FG499NBTGA5CMY/31534/index.m3u8
 #EXTINF:0 tvg-rec="0",Окко Event 29
 #EXTGRP:HD
 http://lbay30jp.socminlt.com/iptv/CBEVE5RT78FG499NBTGA5CMY/31535/index.m3u8
-#EXTINF:0 tvg-rec="0",Окко Event 30
+#EXTINF:0 tvg-rec="0",Окко Герои
 #EXTGRP:HD
 http://lbay30jp.socminlt.com/iptv/CBEVE5RT78FG499NBTGA5CMY/31536/index.m3u8
 #EXTINF:0 tvg-rec="0",Megogo Гонг HD
